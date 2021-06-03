@@ -52,6 +52,6 @@ equal.addEventListener("click", () => {
   result.textContent = eval(result.textContent);
 });
 
-clearInterval.addEventListener("click", () => {
+clear.addEventListener("click", () => {
   result.textContent = "";
 });
